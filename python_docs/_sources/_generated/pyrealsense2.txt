@@ -1,0 +1,134 @@
+pyrealsense2
+============
+
+.. automodule:: pyrealsense2
+
+   
+   
+   .. rubric:: Functions
+   
+   .. autosummary::
+   
+      adjust_2D_point_to_boundary
+      is_pixel_in_line
+      log_to_console
+      log_to_file
+      next_pixel_in_line
+      rs2_deproject_pixel_to_point
+      rs2_fov
+      rs2_project_color_pixel_to_depth_pixel
+      rs2_project_point_to_pixel
+      rs2_transform_point_to_point
+   
+   
+   
+   
+   
+   .. rubric:: Classes
+   
+   .. autosummary::
+      :toctree:
+	  :template: class.rst
+   
+   
+      BufData
+      STAEControl
+      STAFactor
+      STCensusRadius
+      STColorControl
+      STColorCorrection
+      STDepthControlGroup
+      STDepthTableControl
+      STHdad
+      STRauColorThresholdsControl
+      STRauSupportVectorControl
+      STRsm
+      STSloColorThresholdsControl
+      STSloPenaltyControl
+      align
+      auto_calibrated_device
+      camera_info
+      color_sensor
+      colorizer
+      composite_frame
+      config
+      context
+      debug_protocol
+      decimation_filter
+      depth_frame
+      depth_huffman_decoder
+      depth_sensor
+      depth_stereo_sensor
+      device
+      device_list
+      disparity_frame
+      disparity_transform
+      distortion
+      event_information
+      extension
+      extrinsics
+      filter
+      filter_interface
+      fisheye_sensor
+      format
+      frame
+      frame_metadata_value
+      frame_queue
+      frame_source
+      hole_filling_filter
+      intrinsics
+      log_severity
+      motion_device_intrinsic
+      motion_frame
+      motion_sensor
+      motion_stream_profile
+      notification
+      notification_category
+      option
+      option_range
+      options
+      pipeline
+      pipeline_profile
+      pipeline_wrapper
+      playback
+      playback_status
+      pointcloud
+      points
+      pose
+      pose_frame
+      pose_sensor
+      pose_stream_profile
+      processing_block
+      quaternion
+      recorder
+      region_of_interest
+      roi_sensor
+      rs400_advanced_mode
+      save_single_frameset
+      save_to_ply
+      sensor
+      spatial_filter
+      stream
+      stream_profile
+      syncer
+      temporal_filter
+      texture_coordinate
+      threshold_filter
+      timestamp_domain
+      tm2
+      units_transform
+      updatable
+      update_device
+      vector
+      vertex
+      video_frame
+      video_stream_profile
+      wheel_odometer
+      yuy_decoder
+      zero_order_invalidation
+   
+   
+   
+   
+   
+   

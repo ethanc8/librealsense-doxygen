@@ -1,0 +1,52 @@
+pyrealsense2.threshold_filter
+=============================
+
+.. currentmodule:: pyrealsense2
+
+.. autoclass:: threshold_filter
+   :members:
+   :undoc-members:
+
+   
+   .. automethod:: __init__
+   
+   
+   .. rubric:: Methods
+   
+   .. autosummary::
+   
+      ~threshold_filter.__init__
+      ~threshold_filter.as_decimation_filter
+      ~threshold_filter.as_depth_huffman_decoder
+      ~threshold_filter.as_disparity_transform
+      ~threshold_filter.as_hole_filling_filter
+      ~threshold_filter.as_spatial_filter
+      ~threshold_filter.as_temporal_filter
+      ~threshold_filter.as_threshold_filter
+      ~threshold_filter.as_zero_order_invalidation
+      ~threshold_filter.get_info
+      ~threshold_filter.get_option
+      ~threshold_filter.get_option_description
+      ~threshold_filter.get_option_range
+      ~threshold_filter.get_option_value_description
+      ~threshold_filter.get_supported_options
+      ~threshold_filter.invoke
+      ~threshold_filter.is_decimation_filter
+      ~threshold_filter.is_depth_huffman_decoder
+      ~threshold_filter.is_disparity_transform
+      ~threshold_filter.is_hole_filling_filter
+      ~threshold_filter.is_option_read_only
+      ~threshold_filter.is_spatial_filter
+      ~threshold_filter.is_temporal_filter
+      ~threshold_filter.is_threshold_filter
+      ~threshold_filter.is_zero_order_invalidation
+      ~threshold_filter.process
+      ~threshold_filter.set_option
+      ~threshold_filter.start
+      ~threshold_filter.supports
+   
+   
+   
+   
+   
+   
